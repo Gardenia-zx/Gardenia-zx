@@ -1,3 +1,20 @@
+<p align="center">
+  <img
+    src="./profile-banner.jpg"
+    alt="小小世界，我们开心至上"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Hi, I'm Gardenia 🌿</h1>
+
+<p align="center">
+  <strong>AI Agent · Java Backend · Full-stack Builder</strong>
+</p>
+
+<p align="center">
+  Building reliable AI agents and the systems around them.
+</p>
 <div align="center">
 
 # Hi, I'm Gardenia 🌿
