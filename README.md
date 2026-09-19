@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./profile-banner.jpg"
+    src="./bce2299626842a3cf4abb7652426dd74.jpg"
     alt="小小世界，我们开心至上"
     width="100%"
   />
