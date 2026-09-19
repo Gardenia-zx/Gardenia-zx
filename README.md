@@ -6,17 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Gardenia 🌿</h1>
-
-<p align="center">
-  <strong>AI Agent · Java Backend · Full-stack Builder</strong>
-</p>
-
-<p align="center">
-  Building reliable AI agents and the systems around them.
-</p>
-<div align="center">
-
 # Hi, I'm Gardenia 🌿
 
 ### AI Agent · Java Backend · Full-stack Builder
